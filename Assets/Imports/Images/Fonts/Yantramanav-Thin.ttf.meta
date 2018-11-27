@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9519123ae87e24ad4a36716f051df574
+timeCreated: 1489471252
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yantramanav
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32bf24bb5396d4d23a634b039e6e4e5b, type: 3}
+  - {fileID: 12800000, guid: 30a420dbc6e864be6a2dcbab840ac542, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
